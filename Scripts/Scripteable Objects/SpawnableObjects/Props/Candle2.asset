@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b03432d5e0339648a7199818ac69bc3, type: 3}
+  m_Name: Candle2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4347420138101763583, guid: 2ae51043f8cba1340bc0816a318d9f08, type: 3}
+  objectName: Candle 2
+  objectDescription: 
+  objectSprite: {fileID: 21300000, guid: dbc1633916d39b249b85d0298e887ef6, type: 3}
+  objectType: 1

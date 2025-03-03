@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b03432d5e0339648a7199818ac69bc3, type: 3}
+  m_Name: Mean2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2655601779367087204, guid: ebe19b9c6383b414c9ed506e2f838015, type: 3}
+  objectName: Villager Mean
+  objectDescription: Armed NPC
+  objectSprite: {fileID: 21300000, guid: 7f088cbac44952e4c80641751040dbef, type: 3}
+  objectType: 0
+  spawnVFX: {fileID: 7226888052703040409, guid: 3299476e6aea7e24fb874c1b7c04fd7a, type: 3}

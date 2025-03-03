@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b03432d5e0339648a7199818ac69bc3, type: 3}
+  m_Name: Enemy Longsword Skeleton
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2655601779367087204, guid: 91e93ae9f696a5c46ac8cda3499edb9a, type: 3}
+  objectName: Sword Skeleton
+  objectDescription: Testing Purposes
+  objectSprite: {fileID: 1684377112, guid: b7b0693a98f7e6f469fd2dd9fac4ca86, type: 3}
+  objectType: 0
+  spawnVFX: {fileID: 7226888052703040409, guid: 3299476e6aea7e24fb874c1b7c04fd7a, type: 3}
