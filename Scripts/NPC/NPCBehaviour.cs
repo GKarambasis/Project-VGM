@@ -24,7 +24,6 @@ public class NPCBehaviour : MonoBehaviourPunCallbacks
     public string[] npc_Attributes = new string[8];
 
     [Header("GPT Settings")]
-    protected OpenAIApi openAI = new OpenAIApi("###########################", "org-#########");
     public List<ChatMessage> messages = new List<ChatMessage>();
     protected ChatGPTManager chatGPTManager;
 
